@@ -1,0 +1,8 @@
+{
+  "name": "topalli-book-seller-ui",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
